@@ -5,17 +5,17 @@ const listings = [
     price: 420,
     category: "Textbooks",
     condition: "Like new",
-    seller: "sabbir@vu.edu.bd",
+    seller: "Sabbir@vu.edu.bd",
     image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=700&q=80",
     description: "Clean copy for CSE theory courses."
   },
   {
     id: 2,
-    title: "Scientific Calculator",
+    title: "Casio CW Scientific Calculator",
     price: 850,
     category: "Electronics",
     condition: "Good",
-    seller: "tasnim@vu.edu.bd",
+    seller: "Tasnim@vu.edu.bd",
     image: "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?auto=format&fit=crop&w=700&q=80",
     description: "Works perfectly for engineering math."
   },
@@ -25,8 +25,8 @@ const listings = [
     price: 550,
     category: "Lab Equipment",
     condition: "Good",
-    seller: "redwan@vu.edu.bd",
-    image: "https://images.unsplash.com/photo-1581093458791-9d09f85a594d?auto=format&fit=crop&w=700&q=80",
+    seller: "Redwan@vu.edu.bd",
+    image: "https://images.unsplash.com/photo-1593854519602-687eae339d57?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "Useful for lab classes and project work."
   },
   {
@@ -35,7 +35,7 @@ const listings = [
     price: 180,
     category: "Stationery",
     condition: "Like new",
-    seller: "student@vu.edu.bd",
+    seller: "Mou@vu.edu.bd",
     image: "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?auto=format&fit=crop&w=700&q=80",
     description: "Unused notebooks for class notes."
   },
@@ -45,9 +45,9 @@ const listings = [
     price: 650,
     category: "Electronics",
     condition: "Fair",
-    seller: "buyer@vu.edu.bd",
+    seller: "Ansary@vu.edu.bd",
     image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=700&q=80",
-    description: "Comfortable keyboard for coding practice."
+    description: "Comfortable keyboard."
   },
   {
     id: 6,
@@ -55,9 +55,9 @@ const listings = [
     price: 120,
     category: "Others",
     condition: "Good",
-    seller: "seller@vu.edu.bd",
+    seller: "Nur@vu.edu.bd",
     image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=700&q=80",
-    description: "Folder and document set for final submissions."
+    description: "Folder and documents."
   }
 ];
 
